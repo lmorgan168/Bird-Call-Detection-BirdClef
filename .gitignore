@@ -1,0 +1,13 @@
+# ignore data directories
+
+/test_soundscapes
+/train_np
+
+# ignore .ipnyb_checkpoints
+
+/.ipnyb_checkpoints
+
+# ignore excess ipnyb
+
+Bird_Call_Detection-Copy1.ipnyb
+
